@@ -1,0 +1,8 @@
+MIDlet-1: Help,,Help
+MIDlet-Jar-Size: 531361
+MIDlet-Jar-URL: BreakBrick.jar
+MIDlet-Name: BreakBrick Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
